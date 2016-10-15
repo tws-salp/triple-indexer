@@ -16,6 +16,7 @@ import java.util.Map;
  * - entity mappings
  * - relation mappings
  * - triples represented by their own mapping identifier
+ * </p>
  */
 public class TripleExporter {
 
